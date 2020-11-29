@@ -1,4 +1,4 @@
-import 'home_screen.dart';
+import 'package:new_chat/HomeScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,7 +10,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "NewChat",
-      home: HomeScreen(),
+      debugShowCheckedModeBanner: false,
+      home: HomePage(),
     );
   }
 }
