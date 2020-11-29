@@ -6,7 +6,7 @@ You can choose any country code and create a WhatsApp message without saving the
 
 ## Quick Look 
 
-<img src="https://github.com/SatYu26/Pinged/blob/main/assets/Screenshot/SS1.jpg" width="250" style="float:right"><img src="https://github.com/SatYu26/Pinged/blob/main/assets/Screenshot/SS2.jpg" width="250" style="float:right">
+<img src="https://github.com/SatYu26/Pinged/blob/main/assets/Screenshot/SS1.jpg" width="250" style="float:right"> | <img src="https://github.com/SatYu26/Pinged/blob/main/assets/Screenshot/SS2.jpg" width="250" style="float:right">
 
 # Download
 
