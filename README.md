@@ -4,8 +4,8 @@ Pinged allows you to send WhatsApp message to unknown numbers without saving the
 
 You can choose any country code and create a WhatsApp message without saving the contact in your device.<br>
 
-#### First Look ####
+## Quick Look 
 
-<img src="https://github.com/SatYu26/Pinged/blob/main/SS1.jpg" width="400">
+<img src="https://github.com/SatYu26/Pinged/tree/main/assets/Screenshot/SS1.jpg" width="400" style="float:right"><img src="https://github.com/SatYu26/Pinged/tree/main/assets/Screenshot/SS2.jpg" width="400" style="float:right">
 
 <a href="https://github.com/SatYu26/Pinged/releases/download/v1.0/Pinged.apk">Download Here</a>
