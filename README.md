@@ -6,6 +6,6 @@ You can choose any country code and create a WhatsApp message without saving the
 
 #### First Look ####
 
-![alt text](https://github.com/SatYu26/Pinged/blob/main/SS1.jpg)
+<img src="https://github.com/SatYu26/Pinged/blob/main/SS1.jpg" width="900">
 
 <a href="https://github.com/SatYu26/Pinged/releases/download/v1.0/Pinged.apk">Download Here</a>
