@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.new_chat">
+    package="com.pinged">
    <application
-        android:label="new_chat"
+        android:label="Pinged"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

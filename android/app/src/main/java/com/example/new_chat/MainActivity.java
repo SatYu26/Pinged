@@ -1,4 +1,4 @@
-package com.example.new_chat;
+package com.pinged;
 
 import io.flutter.embedding.android.FlutterActivity;
 
