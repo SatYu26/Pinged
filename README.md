@@ -1,16 +1,11 @@
-# new_chat
+# Pinged
 
-A new Flutter application.
+Pinged allows you to send WhatsApp message to unknown numbers without saving them on your device.<br>
 
-## Getting Started
+You can choose any country code and create a WhatsApp message without saving the contact in your device.<br>
 
-This project is a starting point for a Flutter application.
+#### First Look ####
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://github.com/SatYu26/Pinged/blob/main/SS1.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://github.com/SatYu26/Pinged/releases/download/v1.0/Pinged.apk">Download Here</a>
