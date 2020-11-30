@@ -16,4 +16,4 @@ I have tried to keep the UI very simple and neat, so that anyone can use it easi
 
 # Download
 
-<a href="https://github.com/SatYu26/Pinged/releases/download/v1.0/Pinged.apk">Download Here</a>
+<a href="https://github.com/SatYu26/Pinged/releases/download/v2.0.0/Pinged.apk">Download Here</a>
