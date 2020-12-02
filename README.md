@@ -15,5 +15,7 @@ I have tried to keep the UI very simple and neat, so that anyone can use it easi
 <img src="https://github.com/SatYu26/Pinged/blob/main/assets/Screenshot/SS1.jpg" width="300" style="float:right">| <img src="https://github.com/SatYu26/Pinged/blob/main/assets/Screenshot/SS2.jpg" width="300" style="float:right">|
 
 # Download
-
-<a href="https://github.com/SatYu26/Pinged/releases/download/v2.0.0/Pinged.apk">Download Here</a>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.pinged">Download from PlayStore</a></li>
+<li><a href="https://github.com/SatYu26/Pinged/releases/download/v2.0.0/Pinged.apk">Download APK</a></li>
+</ul>
